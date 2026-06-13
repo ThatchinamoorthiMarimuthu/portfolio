@@ -56,17 +56,17 @@ Error generating stack: `+e.message+`
                   p-3\r
                   rounded-xl\r
                   shadow-lg\r
-                `,children:(0,U.jsx)(`img`,{src:`/assets/email.svg`,alt:`Email`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-8,rotate:5},whileTap:{scale:.9},href:`https://github.com/ThatchinamoorthiMarimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
+                `,children:(0,U.jsx)(`img`,{src:`/portfolio/email.svg`,alt:`Email`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-8,rotate:5},whileTap:{scale:.9},href:`https://github.com/ThatchinamoorthiMarimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
                   bg-white\r
                   p-3\r
                   rounded-xl\r
                   shadow-lg\r
-                `,children:(0,U.jsx)(`img`,{src:`/assets/github.svg`,alt:`GitHub`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-8,rotate:5},whileTap:{scale:.9},href:`https://www.linkedin.com/in/thatchinamoorthi-marimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
+                `,children:(0,U.jsx)(`img`,{src:`/portfolio/github.svg`,alt:`GitHub`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-8,rotate:5},whileTap:{scale:.9},href:`https://www.linkedin.com/in/thatchinamoorthi-marimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
                   bg-white\r
                   p-3\r
                   rounded-xl\r
                   shadow-lg\r
-                `,children:(0,U.jsx)(`img`,{src:`/assets/linkedin.svg`,alt:`LinkedIn`,className:`w-6 h-6`})})]})]})})}),(0,U.jsx)(`div`,{className:`\r
+                `,children:(0,U.jsx)(`img`,{src:`/portfolio/linkedin.svg`,alt:`LinkedIn`,className:`w-6 h-6`})})]})]})})}),(0,U.jsx)(`div`,{className:`\r
           absolute\r
           top-0\r
           right-0\r
@@ -98,7 +98,7 @@ Error generating stack: `+e.message+`
               rounded-full\r
               border\r
               border-white/10\r
-            `}),(0,U.jsx)(X.img,{src:`/assets/self2.png`,alt:`Profile`,animate:{y:[0,-15,0],rotate:[0,1,0,-1,0]},transition:{duration:6,repeat:1/0,ease:`easeInOut`},className:`\r
+            `}),(0,U.jsx)(X.img,{src:`/portfolio/self2.png`,alt:`Profile`,animate:{y:[0,-15,0],rotate:[0,1,0,-1,0]},transition:{duration:6,repeat:1/0,ease:`easeInOut`},className:`\r
               absolute\r
               bottom-0\r
               right-[8%]\r
@@ -138,7 +138,7 @@ Error generating stack: `+e.message+`
           rounded-full\r
           border\r
           border-[#0b0b0b]/20\r
-        `}),(0,U.jsx)(X.img,{animate:{y:[0,-10,0]},transition:{duration:4,repeat:1/0},src:`/assets/self2.png`,alt:`Profile`,className:`\r
+        `}),(0,U.jsx)(X.img,{animate:{y:[0,-10,0]},transition:{duration:4,repeat:1/0},src:`/portfolio/self2.png`,alt:`Profile`,className:`\r
           w-72\r
           h-72\r
           object-cover\r
@@ -190,17 +190,17 @@ Error generating stack: `+e.message+`
           p-3\r
           rounded-xl\r
           shadow-lg\r
-        `,children:(0,U.jsx)(`img`,{src:`/assets/email.svg`,alt:`Email`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-5},href:`https://github.com/ThatchinamoorthiMarimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
+        `,children:(0,U.jsx)(`img`,{src:`/portfolio/email.svg`,alt:`Email`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-5},href:`https://github.com/ThatchinamoorthiMarimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
           bg-white\r
           p-3\r
           rounded-xl\r
           shadow-lg\r
-        `,children:(0,U.jsx)(`img`,{src:`/assets/github.svg`,alt:`GitHub`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-5},href:`https://www.linkedin.com/in/thatchinamoorthi-marimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
+        `,children:(0,U.jsx)(`img`,{src:`/portfolio/github.svg`,alt:`GitHub`,className:`w-6 h-6`})}),(0,U.jsx)(X.a,{whileHover:{y:-5},href:`https://www.linkedin.com/in/thatchinamoorthi-marimuthu`,target:`_blank`,rel:`noreferrer`,className:`\r
           bg-white\r
           p-3\r
           rounded-xl\r
           shadow-lg\r
-        `,children:(0,U.jsx)(`img`,{src:`/assets/linkedin.svg`,alt:`LinkedIn`,className:`w-6 h-6`})})]}),(0,U.jsx)(X.div,{animate:{y:[0,10,0]},transition:{duration:1.5,repeat:1/0},className:`mt-12`,children:(0,U.jsx)(`div`,{className:`w-6 h-10 border-2 border-[#0b0b0b] rounded-full flex justify-center`,children:(0,U.jsx)(`div`,{className:`w-1 h-3 bg-[#0b0b0b] rounded-full mt-2`})})})]})]})]}),du=({skills:e})=>(0,U.jsxs)(`section`,{className:`min-h-screen bg-[#0B0B0B] py-20`,children:[(0,U.jsx)(`div`,{className:`container mx-auto flex justify-center items-center`,children:(0,U.jsxs)(X.h1,{initial:{opacity:0,y:50},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{duration:.6},className:`font-bold text-transparent pb-14 bg-gradient-to-r from-[#272626] to-[#C4C4C4] bg-clip-text text-center text-8xl`,children:[`Skills`,(0,U.jsx)(`span`,{className:`block text-xl text-[#C4C4C4] mt-2`,children:`that Fuel my Passion`})]})}),(0,U.jsx)(`div`,{className:`container mx-auto mt-14 grid grid-cols-1 md:grid-cols-3 gap-10 px-4`,children:e.map((e,t)=>(0,U.jsxs)(X.div,{initial:{opacity:0,y:50},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{duration:.6,delay:t*.15},whileHover:{y:-10,scale:1.02},className:`\r
+        `,children:(0,U.jsx)(`img`,{src:`/portfolio/linkedin.svg`,alt:`LinkedIn`,className:`w-6 h-6`})})]}),(0,U.jsx)(X.div,{animate:{y:[0,10,0]},transition:{duration:1.5,repeat:1/0},className:`mt-12`,children:(0,U.jsx)(`div`,{className:`w-6 h-10 border-2 border-[#0b0b0b] rounded-full flex justify-center`,children:(0,U.jsx)(`div`,{className:`w-1 h-3 bg-[#0b0b0b] rounded-full mt-2`})})})]})]})]}),du=({skills:e})=>(0,U.jsxs)(`section`,{className:`min-h-screen bg-[#0B0B0B] py-20`,children:[(0,U.jsx)(`div`,{className:`container mx-auto flex justify-center items-center`,children:(0,U.jsxs)(X.h1,{initial:{opacity:0,y:50},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{duration:.6},className:`font-bold text-transparent pb-14 bg-gradient-to-r from-[#272626] to-[#C4C4C4] bg-clip-text text-center text-8xl`,children:[`Skills`,(0,U.jsx)(`span`,{className:`block text-xl text-[#C4C4C4] mt-2`,children:`that Fuel my Passion`})]})}),(0,U.jsx)(`div`,{className:`container mx-auto mt-14 grid grid-cols-1 md:grid-cols-3 gap-10 px-4`,children:e.map((e,t)=>(0,U.jsxs)(X.div,{initial:{opacity:0,y:50},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{duration:.6,delay:t*.15},whileHover:{y:-10,scale:1.02},className:`\r
               group\r
               relative\r
               overflow-hidden\r
