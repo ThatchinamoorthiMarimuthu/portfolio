@@ -1,0 +1,16 @@
+/* Reset and prevent accidental element margins causing overflow */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    height: 100%;
+}
+
+/* Page background and prevent horizontal overflow */
+body {
+    background-color: #C4C4C;
+    overflow-x: hidden;
+}
