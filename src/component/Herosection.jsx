@@ -181,7 +181,7 @@ export const Herosection = () => {
                 "
               >
                 <img
-                  src="/assets/email.svg"
+                  src="/portfolio/email.svg"
                   alt="Email"
                   className="w-6 h-6"
                 />
@@ -201,7 +201,7 @@ export const Herosection = () => {
                 "
               >
                 <img
-                  src="/assets/github.svg"
+                  src="/portfolio/github.svg"
                   alt="GitHub"
                   className="w-6 h-6"
                 />
@@ -221,7 +221,7 @@ export const Herosection = () => {
                 "
               >
                 <img
-                  src="/assets/linkedin.svg"
+                  src="/portfolio/linkedin.svg"
                   alt="LinkedIn"
                   className="w-6 h-6"
                 />
@@ -307,7 +307,7 @@ export const Herosection = () => {
           {/* Image */}
 
           <motion.img
-            src="/assets/self2.png"
+            src="/portfolio/self2.png"
             alt="Profile"
             animate={{
               y: [0, -15, 0],
@@ -430,7 +430,7 @@ export const Herosection = () => {
           duration: 4,
           repeat: Infinity,
         }}
-        src="/assets/self2.png"
+        src="/portfolio/self2.png"
         alt="Profile"
         className="
           w-72
@@ -579,7 +579,7 @@ export const Herosection = () => {
         "
       >
         <img
-          src="/assets/email.svg"
+          src="/portfolio/email.svg"
           alt="Email"
           className="w-6 h-6"
         />
@@ -598,7 +598,7 @@ export const Herosection = () => {
         "
       >
         <img
-          src="/assets/github.svg"
+          src="/portfolio/github.svg"
           alt="GitHub"
           className="w-6 h-6"
         />
@@ -617,7 +617,7 @@ export const Herosection = () => {
         "
       >
         <img
-          src="/assets/linkedin.svg"
+          src="/portfolio/linkedin.svg"
           alt="LinkedIn"
           className="w-6 h-6"
         />
